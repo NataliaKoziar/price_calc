@@ -1,1 +1,16 @@
-["JS", "CSS", "HTML"]
+{
+  "tasks": [
+    {
+      "name": "JavaScript",
+      "id": 1
+    },
+    {
+      "name": "HTML",
+      "id": 2
+    },
+    {
+      "name": "CSS",
+      "id": 3
+    }
+  ]
+}
